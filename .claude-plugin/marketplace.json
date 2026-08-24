@@ -1,0 +1,12 @@
+{
+  "name": "orca-foreman-marketplace",
+  "owner": { "name": "leecg39" },
+  "plugins": [
+    {
+      "name": "orca-foreman",
+      "displayName": "Orca Foreman (십장)",
+      "source": "./plugins/orca-foreman",
+      "description": "멈춘 Orca 워크트리 에이전트를 감지해 터미널을 되살리고 임무를 상기시켜 다시 일하게 하는 감독관. AI 세션과 무관하게 상주하는 데몬 + 임무 설계 스킬."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "orca-foreman",
+  "version": "0.1.0",
+  "description": "Orca 워크트리 에이전트 감독관 — 멈춘 에이전트를 감지해 터미널을 되살리고 임무를 상기시켜 다시 일하게 한다. AI 세션과 무관하게 상주하는 데몬 + 임무 설계 스킬.",
+  "author": { "name": "user01" }
+}
